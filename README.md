@@ -2,9 +2,9 @@
 # Introduction
 Hi! I'm Tan Kerry, a student in the Framework-Based Software Design and Development course. 
 I want to learn the adaptive maintenance and strategic investment during this class.
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+!https://github.com/SoftwareMaintenanceEvolution/tutorial-1-kerryyys/blob/profile-upload/Camera_XHS_17604937612381000g00826ji4t0ife02g4buo76k18121n89o6n0.jpg
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile. kerryyys
+You can view my personalized GitHub profile. https://github.com/kerryyys
 
